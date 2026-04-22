@@ -90,11 +90,11 @@ Records the current line number and saves it into a slot for later navigation.
 
 move
 
-Jumps the execution to a specific line number in the script.
+Jumps the execution to a specific line in the script(u need to save the line firstly to some slot or use point that sets automatically the line).
 
     Syntax:
     move
-    [line_number]
+    [slot_index]
 
 6. System & Lua Integration
 exec_system
