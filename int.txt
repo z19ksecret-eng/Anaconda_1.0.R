@@ -1,0 +1,9 @@
+point
+1
+r_key
+2
+print
+!slot
+2
+move
+1
